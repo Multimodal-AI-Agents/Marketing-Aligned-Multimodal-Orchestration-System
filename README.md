@@ -1,24 +1,14 @@
 # Marketing-Aligned-Multimodal-Orchestration-System
 
-
-## Overview
-
-This repository presents a marketing-aligned multimodal orchestration system for generating videos that convey a target brand personality, such as a high level of excitement. The system coordinates text, audio, and image inputs through four modules, covering input assessment, video generation, and video inspection.
+A multimodal orchestration system for generating videos aligned with a target brand personality (e.g., high excitement).
 
 ## System Modules
 
-1. **Unimodal inputs**  
-   Text, audio, and image inputs that guide video generation.
+1. **Unimodal inputs:** Text, audio, and images.
+2. **Input detection agents**
+3. **Video generation agent**
+4. **Video inspection agents**
 
-2. **Input detection agents**  
-   Assess the inputs for alignment with the target brand personality.
+## Code
 
-3. **Video generation agent**  
-   Integrates the multimodal inputs to generate videos that reflect the target brand personality.
-
-4. **Video inspection agents**  
-   Evaluate the generated videos for alignment with the intended brand personality.
-
-## Code and Implementation
-
-The implementation code and detailed workflow are provided in the **code_marketing-aligned multimodal orchestration system.ipynb(`.ipynb`) included in this repository**. Please refer to the notebook for implementation details.
+See the [Jupyter Notebook](./code_marketing-aligned%20multimodal%20orchestration%20system.ipynb) for the implementation code and detailed workflow.
