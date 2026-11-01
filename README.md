@@ -1,6 +1,6 @@
 # Marketing-Aligned-Multimodal-Orchestration-System
 
-A multimodal orchestration system for generating videos aligned with a target brand personality (e.g., high excitement).
+A multimodal orchestration system for generating videos aligned with a target brand personality 
 
 ## System Modules
 
