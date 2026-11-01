@@ -21,4 +21,4 @@ This repository presents a marketing-aligned multimodal orchestration system for
 
 ## Code and Implementation
 
-The implementation code and detailed workflow are provided in the **Jupyter Notebook (`.ipynb`) included in this repository**. Please refer to the notebook for implementation details.
+The implementation code and detailed workflow are provided in the **code_marketing-aligned multimodal orchestration system.ipynb(`.ipynb`) included in this repository**. Please refer to the notebook for implementation details.
