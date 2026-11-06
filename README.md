@@ -1,4 +1,4 @@
-# Marketing-Aligned-Multimodal-Orchestration-System
+# When Generative AI Is Not Enough: Marketing-Aligned Multimodal Orchestration for Video Generation
 
 A multimodal orchestration system for generating videos aligned with a target brand personality 
 
