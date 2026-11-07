@@ -11,4 +11,4 @@ A multimodal orchestration system for generating videos aligned with a target br
 
 ## Code
 
-See the [Jupyter Notebook](./code_marketing-aligned%20multimodal%20orchestration%20system.ipynb) for the implementation code and detailed workflow.
+See the [Jupyter Notebook](./code_marketing-aligned-multimodal-orchestration-system.ipynb) for the implementation code and detailed workflow.
