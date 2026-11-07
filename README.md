@@ -4,7 +4,7 @@ A multimodal orchestration system for generating videos aligned with a target br
 
 ## System Modules
 
-1. **Unimodal inputs:** Text, audio, and images.
+1. **Unimodal inputs:** 
 2. **Input detection agents**
 3. **Video generation agent**
 4. **Video inspection agents**
